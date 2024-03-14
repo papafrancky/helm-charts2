@@ -1,3 +1,15 @@
 apiVersion: v1
-entries: {}
-generated: "2024-03-14T20:03:23.811511497Z"
+entries:
+  silly-webapp:
+  - apiVersion: v2
+    appVersion: "2.4"
+    created: "2024-03-14T20:10:32.534365859Z"
+    description: A simple web application exposing credentials retrieved from a Vault
+      instance through the External Secrets Operator (ESO).
+    digest: 95e29f48321a31eee8793ccc94a0da08dad9ddc7bd36fb6730f8f30e0bb59de8
+    name: silly-webapp
+    type: application
+    urls:
+    - silly-webapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-14T20:10:32.53390382Z"
